@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/GatuzoCXL/GatuzoCXL/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/GatuzoCXL/GatuzoCXL/output/snake.svg" alt="Snake animation" />
 
 ###
