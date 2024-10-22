@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋! My name is Gasuto and no se que más ...</h2>
 
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GatuzoCXL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=es&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=GatuzoCXL&locale=es&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -8,9 +9,11 @@
 </div>
 
 ###
+
 <img align="right" height="150" src="https://i.kym-cdn.com/photos/images/newsfeed/001/056/348/ef3.gif"  />
 
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -32,6 +35,7 @@
 </div>
 
 ###
+
 <div align="left">
   <a href="https://discord.gg/jseXRSW" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -42,21 +46,9 @@
 </div>
 
 ###
+
 <br clear="both">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GatuzoCXL/GatuzoCXL/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GatuzoCXL/GatuzoCXL/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/GatuzoCXL/GatuzoCXL/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/GatuzoCXL/GatuzoCXL/output/snake.svg" alt="Snake animation" />
 
 ###
