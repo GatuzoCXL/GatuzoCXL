@@ -106,40 +106,119 @@ I enjoy building practical solutions, improving user experience, designing clean
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="50%">
       <h3 align="center">Joya Express</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Mobile%20App-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Backend-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
       </p>
       <p>
-        Transportation app for passengers and drivers, focused on mobile experience, backend services and real-time communication.
+        Transportation application for passengers and drivers, focused on mobile experience, backend services and real-time communication.
       </p>
       <p>
         <strong>Stack:</strong> Flutter, Node.js, Express, REST APIs, PostgreSQL/Firebase.
       </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">MetalCorp</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Web%20Platform-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      </p>
-      <p>
-        Corporate responsive website designed to present services, projects and institutional information.
-      </p>
-      <p>
-        <strong>Stack:</strong> React.js, JavaScript, Tailwind CSS, Git, deployment.
+        <img src="https://img.shields.io/badge/Private%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
-    <td width="33%">
-      <h3 align="center">Rosy Music Bot</h3>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://gatuzocxl.github.io/metal-corp">MetalCorp</a>
+      </h3>
       <p align="center">
+        <a href="https://gatuzocxl.github.io/metal-corp">
+          <img src="https://img.shields.io/badge/Live%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/Responsive%20Web-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+      </p>
+      <p>
+        Corporate responsive website developed for a metalworking company, focused on services, projects and institutional presentation.
+      </p>
+      <p>
+        <strong>Stack:</strong> React.js, JavaScript, Tailwind CSS, GitHub Pages.
+      </p>
+      <p align="center">
+        <a href="https://gatuzocxl.github.io/metal-corp">
+          <img src="https://img.shields.io/badge/View%20Project-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/GatuzoCXL/Rosy-Music-Bot">Rosy Music Bot</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/GatuzoCXL/Rosy-Music-Bot">
+          <img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
         <img src="https://img.shields.io/badge/Discord%20Bot-0F172A?style=for-the-badge&logo=discord&logoColor=5865F2" />
       </p>
       <p>
-        Open source music bot for Discord with asynchronous logic, playback queues and audio filters.
+        Music bot for Discord built with Discord.js and Lavalink. Supports YouTube/YouTube Music playback, queues, volume controls and slash commands.
       </p>
       <p>
-        <strong>Stack:</strong> Node.js, Discord.js, JavaScript, async logic.
+        <strong>Stack:</strong> Node.js, Discord.js, Lavalink, Docker, JavaScript.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GatuzoCXL/Rosy-Music-Bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GatuzoCXL&repo=Rosy-Music-Bot&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/GatuzoCXL/crosshairGasu">Crosshair Overlay</a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/GatuzoCXL/crosshairGasu">
+          <img src="https://img.shields.io/badge/Desktop%20App-0F172A?style=for-the-badge&logo=windows&logoColor=0078D4" />
+        </a>
+        <img src="https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" />
+      </p>
+      <p>
+        Lightweight Windows overlay application for customizable gaming crosshairs, with presets, visual effects, hotkey support and system tray integration.
+      </p>
+      <p>
+        <strong>Stack:</strong> C# .NET, Windows Desktop, Overlay UI, System Tray.
+      </p>
+      <p align="center">
+        <a href="https://github.com/GatuzoCXL/crosshairGasu">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=GatuzoCXL&repo=crosshairGasu&theme=github_dark&hide_border=true" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">IoT Food Monitoring System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/IoT%20Project-0F172A?style=for-the-badge&logo=arduino&logoColor=00979D" />
+        <img src="https://img.shields.io/badge/Innovation-2563EB?style=for-the-badge&logo=awesomelists&logoColor=white" />
+      </p>
+      <p>
+        Academic innovation project focused on real-time food monitoring through sensor telemetry and hardware/software integration.
+      </p>
+      <p>
+        <strong>Highlight:</strong> Selected among the top 10 innovation projects for technical precision and architecture.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">More Projects</h3>
+      <p align="center">
+        <a href="https://github.com/GatuzoCXL?tab=repositories">
+          <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Additional academic, backend, mobile and web projects developed while strengthening software engineering fundamentals.
+      </p>
+      <p>
+        <strong>Focus:</strong> Web development, mobile apps, databases, APIs, Linux and deployment.
       </p>
     </td>
   </tr>
@@ -147,6 +226,18 @@ I enjoy building practical solutions, improving user experience, designing clean
 
 ---
 
+## Project Highlights
+
+<div align="center">
+
+![Mobile Development](https://img.shields.io/badge/Mobile%20Development-Flutter%20%7C%20Dart-0F172A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Backend APIs](https://img.shields.io/badge/Backend%20APIs-Node.js%20%7C%20Express-0F172A?style=for-the-badge&logo=node.js&logoColor=5FA04E)
+![Web Platforms](https://img.shields.io/badge/Web%20Platforms-React%20%7C%20Tailwind-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Desktop Tools](https://img.shields.io/badge/Desktop%20Tools-.NET%20%7C%20Windows-0F172A?style=for-the-badge&logo=windows&logoColor=0078D4)
+
+</div>
+
+---
 ## GitHub Analytics
 
 <div align="center">
